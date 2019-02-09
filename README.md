@@ -17,3 +17,12 @@ Hardware yang dibutuhkan adalah:
 1. NodeMCU
 2. RFID card yang sudah digunakan untuk Absensi
 3. RFID Reader MFRC522 untuk membaca serial number di RFID card tersebut
+
+Untuk Pin yang tersambung dari RFID ke NodeMCU adalah:
+1. SDA ke PIN D2
+2. SCK Ke PIN F5
+3. MOSI ke Pin D7
+4. MOSI ke Pin D6
+5. GND ke PIN G
+6. RST ke PIN D1
+7. 3.3V ke PIN 3.3V

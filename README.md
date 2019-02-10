@@ -31,3 +31,4 @@ Untuk Libraries yang dibutuhkan bisa didownload di link berikut ini:
 https://www.arduinolibraries.info/libraries/mfrc522
 https://www.arduinolibraries.info/libraries/arduino-json (arduinojson disetiap laptop berbeda versi)
 
+Untuk Cara Instalasi NodeMCU(ESP8266) bisa kalian liat di folder yang lain

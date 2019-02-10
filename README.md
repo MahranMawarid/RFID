@@ -32,3 +32,5 @@ https://www.arduinolibraries.info/libraries/mfrc522
 https://www.arduinolibraries.info/libraries/arduino-json (arduinojson disetiap laptop berbeda versi)
 
 Untuk Cara Instalasi NodeMCU(ESP8266) bisa kalian liat di folder yang lain
+untuk download Driver NodeMCU bisa diinstall di link berikut:
+https://raw.githubusercontent.com/nodemcu/nodemcu-devkit/master/Drivers/CH341SER_WINDOWS.zip

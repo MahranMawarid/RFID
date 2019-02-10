@@ -26,3 +26,8 @@ Untuk Pin yang tersambung dari RFID ke NodeMCU adalah:
 5. GND ke PIN G
 6. RST ke PIN D1
 7. 3.3V ke PIN 3.3V
+
+Untuk Libraries yang dibutuhkan bisa didownload di link berikut ini:
+https://www.arduinolibraries.info/libraries/mfrc522
+https://www.arduinolibraries.info/libraries/arduino-json (arduinojson disetiap laptop berbeda versi)
+
